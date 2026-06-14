@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">DualSubPlayer</string>
+    <!-- Settings -->
+    <string name="settings_title">Ustawienia</string>
+    <string name="settings_main">Ogólne</string>
+    <string name="language">Język</string>
+    <string name="info">Informacje</string>
+    <string name="developer">Deweloper</string>
+    <string name="developer_text">Opracowane przez</string>
+    <string name="choose_language">Wybierz język interfejsu</string>
+    <string name="lang_system">Systemowy</string>
+    <string name="app_version">Wersja %1$s</string>
+
+    <!-- Home -->
+    <string name="tab_translations">Wideo</string>
+    <string name="list_empty">Lista jest pusta</string>
+    <string name="add_video_to_start">Dodaj wideo, aby rozpocząć</string>
+    <string name="add_video">Dodaj wideo</string>
+    <string name="upload_video">Z galerii</string>
+    <string name="upload_link">Z YouTube</string>
+    <string name="youtube_link_msg">Wklej link do wideo z YouTube</string>
+    <string name="add">Dodaj</string>
+    <string name="cancel">Anuluj</string>
+    <string name="invalid_link">Nieprawidłowy link</string>
+    <string name="adding_video">Dodawanie wideo...</string>
+    <string name="network_error">Błąd sieci</string>
+    <string name="subs_downloaded">✅ Napisy pobrane!</string>
+    <string name="subs_not_found">⚠️ Nie znaleziono napisów</string>
+    <string name="no_subs_title">Brak napisów</string>
+    <string name="no_subs_msg">Aby skorzystać z tłumacza, dodaj plik .srt</string>
+    <string name="choose_file">Wybierz plik</string>
+    <string name="wait_subs_loading">⏳ Proszę czekać, napisy się ładują...</string>
+    <string name="unknown_video">Nieznane wideo</string>
+    <string name="select_srt_error">Błąd: Wybierz plik .srt!</string>
+
+    <!-- Player / Reader -->
+    <string name="video">Wideo</string>
+    <string name="change_language">Zmień język tłumaczenia</string>
+    <string name="choose_translation_lang">Wybierz język tłumaczenia</string>
+    <string name="waiting">⏳ Oczekiwanie...</string>
+    <string name="preparing_translation">Przygotowanie tłumaczenia...</string>
+    <string name="subs_already_this_lang">Napisy są już w tym języku!</string>
+    <string name="error_lang_pack">Błąd pobierania pakietu językowego</string>
+    <string name="translating">⏳ Tłumaczenie...</string>
+    <string name="translation_error">❌ Błąd</string>
+    <string name="words_added_to_dict">Słowa dodane do słownika!</string>
+    <string name="choose_at_least_one_word">Wybierz co najmniej jedno słowo</string>
+    <string name="video_text">Tekst wideo</string>
+    <string name="translate">Przetłumacz</string>
+    <string name="text_not_found">Nie znaleziono tekstu</string>
+    <string name="file_read_error">Błąd odczytu pliku</string>
+    <string name="translate_processing">Ładowanie tłumaczenia...</string>
+    <string name="video_title_placeholder">Tytuł wideo...</string>
+
+    <!-- Dictionary / Game -->
+    <string name="dictionary">Słownik</string>
+    <string name="dictionary_empty">Słownik jest pusty</string>
+    <string name="dict_empty_desc">Dodawaj słowa podczas oglądania wideo</string>
+    <string name="add_to_dict">Dodaj do słownika</string>
+    <string name="original_choose">Oryginał (możesz wybrać kilka):</string>
+    <string name="translation_choose">Tłumaczenie (możesz wybrać kilka):</string>
+    <string name="save_selected_words">Zapisz wybrane słowa</string>
+    <string name="words_from_video">Słowa z wideo</string>
+    <string name="play_training">Graj (Trening)</string>
+    <string name="training">Trening</string>
+    <string name="game_over_title">Koniec gry!</string>
+    <string name="game_over_msg">Twój wynik: %1$d na %2$d poprawnych.\nSuper!</string>
+    <string name="super_btn">Super</string>
+    <string name="word_deleted">Słowo usunięto</string>
+    <string name="game_min_words_error">Potrzebujesz co najmniej 4 słów, aby zagrać! Dodaj więcej.</string>
+
+    <!-- Translations Tab -->
+    <string name="translations">Tłumaczenia</string>
+    <string name="no_translations">Brak tłumaczeń</string>
+    <string name="translations_saved">Zapisane tłumaczenia pojawią się tutaj</string>
+    <string name="words_count">%d słów</string>
+</resources>

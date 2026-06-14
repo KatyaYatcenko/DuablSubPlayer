@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">DualSubPlayer</string>
+    <!-- Settings -->
+    <string name="settings_title">Paramètres</string>
+    <string name="settings_main">Général</string>
+    <string name="language">Langue</string>
+    <string name="info">Info</string>
+    <string name="developer">Développeur</string>
+    <string name="developer_text">Développé par</string>
+    <string name="choose_language">Choisir la langue</string>
+    <string name="lang_system">Système</string>
+    <string name="app_version">Version %1$s</string>
+
+    <!-- Home -->
+    <string name="tab_translations">Vidéos</string>
+    <string name="list_empty">La liste est vide</string>
+    <string name="add_video_to_start">Ajoutez une vidéo pour commencer</string>
+    <string name="add_video">Ajouter vidéo</string>
+    <string name="upload_video">Depuis la galerie</string>
+    <string name="upload_link">Depuis YouTube</string>
+    <string name="youtube_link_msg">Collez le lien vers la vidéo</string>
+    <string name="add">Ajouter</string>
+    <string name="cancel">Annuler</string>
+    <string name="invalid_link">Lien invalide</string>
+    <string name="adding_video">Ajout de la vidéo...</string>
+    <string name="network_error">Erreur réseau</string>
+    <string name="subs_downloaded">✅ Sous-titres téléchargés !</string>
+    <string name="subs_not_found">⚠️ Sous-titres introuvables</string>
+    <string name="no_subs_title">Sous-titres manquants</string>
+    <string name="no_subs_msg">Pour utiliser le traducteur, veuillez ajouter un fichier .srt</string>
+    <string name="choose_file">Choisir fichier</string>
+    <string name="wait_subs_loading">⏳ Veuillez patienter, chargement...</string>
+    <string name="unknown_video">Vidéo inconnue</string>
+    <string name="select_srt_error">Erreur : Sélectionnez un fichier .srt !</string>
+
+    <!-- Player / Reader -->
+    <string name="video">Vidéo</string>
+    <string name="change_language">Changer la langue</string>
+    <string name="choose_translation_lang">Choisir la langue de traduction</string>
+    <string name="waiting">⏳ Attente...</string>
+    <string name="preparing_translation">Préparation de la traduction...</string>
+    <string name="subs_already_this_lang">Sous-titres déjà dans cette langue !</string>
+    <string name="error_lang_pack">Erreur de téléchargement du pack de langue</string>
+    <string name="translating">⏳ Traduction...</string>
+    <string name="translation_error">❌ Erreur</string>
+    <string name="words_added_to_dict">Mots ajoutés au dictionnaire !</string>
+    <string name="choose_at_least_one_word">Choisissez au moins un mot</string>
+    <string name="video_text">Texte vidéo</string>
+    <string name="translate">Traduire</string>
+    <string name="text_not_found">Texte introuvable</string>
+    <string name="file_read_error">Erreur de lecture</string>
+    <string name="translate_processing">Traduction en cours...</string>
+    <string name="video_title_placeholder">Titre de la vidéo...</string>
+
+    <!-- Dictionary / Game -->
+    <string name="dictionary">Dictionnaire</string>
+    <string name="dictionary_empty">Le dictionnaire est vide</string>
+    <string name="dict_empty_desc">Ajoutez des mots en regardant des vidéos</string>
+    <string name="add_to_dict">Ajouter au dictionnaire</string>
+    <string name="original_choose">Original (plusieurs choix possibles) :</string>
+    <string name="translation_choose">Traduction (plusieurs choix possibles) :</string>
+    <string name="save_selected_words">Enregistrer les mots</string>
+    <string name="words_from_video">Mots de la vidéo</string>
+    <string name="play_training">Jouer (Entraînement)</string>
+    <string name="training">Entraînement</string>
+    <string name="game_over_title">Partie terminée !</string>
+    <string name="game_over_msg">Score : %1$d sur %2$d réponses correctes.\nBravo !</string>
+    <string name="super_btn">Génial</string>
+    <string name="word_deleted">Mot supprimé</string>
+    <string name="game_min_words_error">Il faut au moins 4 mots pour jouer ! Ajoutez-en d\'autres.</string>
+
+    <!-- Translations Tab -->
+    <string name="translations">Traductions</string>
+    <string name="no_translations">Pas de traductions</string>
+    <string name="translations_saved">Les traductions apparaîtront ici</string>
+    <string name="words_count">%d mots</string>
+</resources>

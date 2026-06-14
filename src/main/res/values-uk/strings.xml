@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">DualSubPlayer</string>
+    <!-- Settings -->
+    <string name="settings_title">Налаштування</string>
+    <string name="settings_main">Головне</string>
+    <string name="language">Мова</string>
+    <string name="info">Інформація</string>
+    <string name="developer">Розробник</string>
+    <string name="developer_text">Розроблено</string>
+    <string name="choose_language">Оберіть мову інтерфейсу</string>
+    <string name="lang_system">Системна</string>
+    <string name="app_version">Версія %1$s</string>
+
+    <!-- Home -->
+    <string name="tab_translations">Відео</string>
+    <string name="list_empty">Список порожній</string>
+    <string name="add_video_to_start">Додайте відео щоб почати</string>
+    <string name="add_video">Додати відео</string>
+    <string name="upload_video">З галереї</string>
+    <string name="upload_link">З YouTube</string>
+    <string name="youtube_link_msg">Вставте посилання на відео, яке хочете додати та перекласти</string>
+    <string name="add">Додати</string>
+    <string name="cancel">Скасувати</string>
+    <string name="invalid_link">Невірне посилання</string>
+    <string name="adding_video">Додаємо відео…</string>
+    <string name="network_error">Помилка мережі</string>
+    <string name="subs_downloaded">✅ Субтитри завантажено!</string>
+    <string name="subs_not_found">⚠️ Субтитри не знайдено</string>
+    <string name="no_subs_title">Відсутні субтитри</string>
+    <string name="no_subs_msg">Для роботи розумного перекладача необхідно додати файл .srt</string>
+    <string name="choose_file">Вибрати файл</string>
+    <string name="wait_subs_loading">⏳ Зачекайте, субтитри ще завантажуються...</string>
+    <string name="unknown_video">Невідоме відео</string>
+    <string name="select_srt_error">Помилка: Виберіть файл .srt!</string>
+
+    <!-- Player / Reader -->
+    <string name="video">Відео</string>
+    <string name="change_language">Змінити мову перекладу</string>
+    <string name="choose_translation_lang">Оберіть мову перекладу</string>
+    <string name="waiting">⏳ Очікування...</string>
+    <string name="preparing_translation">Готуємо переклад...</string>
+    <string name="subs_already_this_lang">Субтитри вже цією мовою!</string>
+    <string name="error_lang_pack">Помилка завантаження мовного пакета</string>
+    <string name="translating">⏳ Перекладаю...</string>
+    <string name="translation_error">❌ Помилка</string>
+    <string name="words_added_to_dict">Слова додано до словника!</string>
+    <string name="choose_at_least_one_word">Оберіть хоча б одне слово</string>
+    <string name="video_text">Текст відео</string>
+    <string name="translate">Перекласти</string>
+    <string name="text_not_found">Текст не знайдено</string>
+    <string name="file_read_error">Помилка читання файлу</string>
+    <string name="translate_processing">Переклад завантажується...</string>
+    <string name="video_title_placeholder">Назва відео...</string>
+
+    <!-- Dictionary / Game -->
+    <string name="dictionary">Словник</string>
+    <string name="dictionary_empty">Словник порожній</string>
+    <string name="dict_empty_desc">Додавайте слова під час перегляду відео</string>
+    <string name="add_to_dict">Додати в словник</string>
+    <string name="original_choose">Оригінал (можна обрати кілька):</string>
+    <string name="translation_choose">Переклад (можна обрати кілька):</string>
+    <string name="save_selected_words">Зберегти вибрані слова</string>
+    <string name="words_from_video">Слова з відео</string>
+    <string name="play_training">Грати (Тренування)</string>
+    <string name="training">Тренування</string>
+    <string name="game_over_title">Гра завершена!</string>
+    <string name="game_over_msg">Ваш результат: %1$d з %2$d правильних відповідей.\nМолодець!</string>
+    <string name="super_btn">Супер</string>
+    <string name="word_deleted">Слово видалено</string>
+    <string name="game_min_words_error">Для гри потрібно мінімум 4 слова! Додайте ще.</string>
+
+    <!-- Translations Tab -->
+    <string name="translations">Переклади</string>
+    <string name="no_translations">Немає перекладів</string>
+    <string name="translations_saved">Збережені переклади будуть тут</string>
+    <string name="words_count">%d слів</string>
+</resources>

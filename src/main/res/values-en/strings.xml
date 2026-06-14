@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DualSubPlayer</string>
+    <string name="tab_home">Home</string>
+    <string name="list_empty">Watchlist is empty</string>
+    <string name="add_video">Add video</string>
+    <string name="upload_video">Upload from device</string>
+    <string name="upload_link">Add from YouTube</string>
+    <string name="settings_main">Basic</string>
+    <string name="language">Interface language</string>
+    <string name="info">Information</string>
+    <string name="developer">Developer</string>
+    <string name="translate_processing">Translation...</string>
+    <string name="translate_btn">Translate</string>
+    <string name="translations_saved">Your saved translations will be here</string>
+
+    <string name="tab_translations">My Videos</string>
+    <string name="settings_title">Settings</string>
+    <string name="developer_text">Made with ❤️</string>
+</resources>

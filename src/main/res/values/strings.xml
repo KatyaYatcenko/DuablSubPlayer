@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">DualSubPlayer</string>
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_main">General</string>
+    <string name="language">Language</string>
+    <string name="info">Info</string>
+    <string name="developer">Developer</string>
+    <string name="developer_text">Developed by</string>
+    <string name="choose_language">Choose interface language</string>
+    <string name="lang_system">System</string>
+    <string name="app_version">Version %1$s</string>
+
+    <!-- Home -->
+    <string name="tab_translations">Videos</string>
+    <string name="list_empty">List is empty</string>
+    <string name="add_video_to_start">Add a video to start</string>
+    <string name="add_video">Add Video</string>
+    <string name="upload_video">From Gallery</string>
+    <string name="upload_link">From YouTube</string>
+    <string name="youtube_link_msg">Paste a link to the video you want to add and translate</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="invalid_link">Invalid link</string>
+    <string name="adding_video">Adding video...</string>
+    <string name="network_error">Network error</string>
+    <string name="subs_downloaded">✅ Subtitles downloaded!</string>
+    <string name="subs_not_found">⚠️ Subtitles not found</string>
+    <string name="no_subs_title">Missing Subtitles</string>
+    <string name="no_subs_msg">To use the smart translator, you need to add a .srt file</string>
+    <string name="choose_file">Choose file</string>
+    <string name="wait_subs_loading">⏳ Wait, subtitles are still loading...</string>
+    <string name="unknown_video">Unknown video</string>
+    <string name="select_srt_error">Error: Select a .srt file!</string>
+
+    <!-- Player / Reader -->
+    <string name="video">Video</string>
+    <string name="change_language">Change translation language</string>
+    <string name="choose_translation_lang">Choose translation language</string>
+    <string name="waiting">⏳ Waiting...</string>
+    <string name="preparing_translation">Preparing translation...</string>
+    <string name="subs_already_this_lang">Subtitles are already in this language!</string>
+    <string name="error_lang_pack">Error downloading language pack</string>
+    <string name="translating">⏳ Translating...</string>
+    <string name="translation_error">❌ Error</string>
+    <string name="words_added_to_dict">Words added to dictionary!</string>
+    <string name="choose_at_least_one_word">Choose at least one word</string>
+    <string name="video_text">Video text</string>
+    <string name="translate">Translate</string>
+    <string name="text_not_found">Text not found</string>
+    <string name="file_read_error">File reading error</string>
+    <string name="translate_processing">Translation is loading...</string>
+    <string name="video_title_placeholder">Video title...</string>
+
+    <!-- Dictionary / Game -->
+    <string name="dictionary">Dictionary</string>
+    <string name="dictionary_empty">Dictionary is empty</string>
+    <string name="dict_empty_desc">Add words while watching videos</string>
+    <string name="add_to_dict">Add to dictionary</string>
+    <string name="original_choose">Original (you can select multiple):</string>
+    <string name="translation_choose">Translation (you can select multiple):</string>
+    <string name="save_selected_words">Save selected words</string>
+    <string name="words_from_video">Words from video</string>
+    <string name="play_training">Play (Training)</string>
+    <string name="training">Training</string>
+    <string name="game_over_title">Game Over!</string>
+    <string name="game_over_msg">Your score: %1$d out of %2$d correct answers.\nGreat job!</string>
+    <string name="super_btn">Awesome</string>
+    <string name="word_deleted">Word deleted</string>
+    <string name="game_min_words_error">You need at least 4 words to play! Add more.</string>
+
+    <!-- Translations Tab -->
+    <string name="translations">Translations</string>
+    <string name="no_translations">No translations</string>
+    <string name="translations_saved">Saved translations will appear here</string>
+    <string name="words_count">%d words</string>
+</resources>

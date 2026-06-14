@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="@drawable/bg_glass_bottom_sheet">
+
+    <View
+        android:layout_width="40dp"
+        android:layout_height="4dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="16dp"
+        android:background="#55888888" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/add_to_dict"
+        android:textSize="22sp"
+        android:fontFamily="@font/montserrat_bold"
+        android:textColor="?android:attr/textColorPrimary"
+        android:gravity="center"
+        android:layout_marginBottom="24dp"/>
+
+    <!-- Блок для оригінальних слів -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/original_choose"
+        android:textSize="14sp"
+        android:fontFamily="@font/montserrat_bold"
+        android:textColor="?android:attr/textColorPrimary"
+        android:layout_marginBottom="12dp"/>
+
+    <com.google.android.material.chip.ChipGroup
+        android:id="@+id/chipGroupOriginal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        app:singleSelection="false" />
+
+    <!-- Блок для перекладу -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/translation_choose"
+        android:textSize="14sp"
+        android:fontFamily="@font/montserrat_bold"
+        android:textColor="?android:attr/textColorPrimary"
+        android:layout_marginBottom="12dp"/>
+
+    <com.google.android.material.chip.ChipGroup
+        android:id="@+id/chipGroupTranslated"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp"
+        app:singleSelection="false" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnSaveToDictionary"
+        style="@style/Widget.Material3.Button"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:text="@string/save_selected_words"
+        android:textAllCaps="false"
+        android:fontFamily="@font/montserrat_bold"
+        android:textSize="16sp"
+        app:cornerRadius="16dp"/>
+
+</LinearLayout>
